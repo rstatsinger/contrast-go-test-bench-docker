@@ -1,4 +1,4 @@
-# Go Test Bench - Demo app for Contrast Security Go agent - Easy setup/run using Docker
+# Go Test Bench - Demo app for Contrast Security Go agent - Easy setup/run using Docker Compose
 
 
 This is an intentionally vulnerable Go application. Uses Go's standard library, `net/http`,
