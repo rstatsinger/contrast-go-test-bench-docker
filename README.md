@@ -23,4 +23,5 @@ Just git and docker
 4. ./demo.sh reset
 5. ./demo.sh
 6. Interact with the app at http://localhost:8080
+7. View the results in Contrast Security
 
