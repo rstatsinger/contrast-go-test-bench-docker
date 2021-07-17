@@ -1,7 +1,7 @@
 # Go Test Bench - Demo app for Contrast Security Go agent - Easy setup/run using Docker
 
 
-This is an intentionally vulnerable Go applications. Uses Go's standard library, `net/http`,
+This is an intentionally vulnerable Go application. Uses Go's standard library, `net/http`,
 for client/server implementations. For more info on this framework, visit
 [net/http](https://golang.org/pkg/net/http/).
 
@@ -9,6 +9,7 @@ The go-test-bench application includes vulnerabilities from the OWASP Top
 10 and is intended to be used as an educational tool for developers and
 security professionals. Any maintainers are welcome to make pull requests.
 
+This setup lets you run the application in a Docker container, isolating it from your host.
 
 ## Installation/Requirements
 
