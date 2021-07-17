@@ -17,7 +17,7 @@ Just git and docker
 
 # How to Run
 
-1. git clone this rep
+1. git clone this repo
 2. Drop your contrast_security.yaml file into the project root directory
 3. Edit the yaml file to set logging to stdout, or set the logging paths to /tmp
 4. ./demo.sh reset
