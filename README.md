@@ -13,7 +13,7 @@ This setup runs the application in a Docker container, isolating it from your en
 
 ## Installation/Requirements
 
-Just git and docker
+A Contrast Security account, git, and docker
 
 # How to Run
 
