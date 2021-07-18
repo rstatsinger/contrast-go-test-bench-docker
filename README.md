@@ -18,7 +18,7 @@ Just git and docker
 # How to Run
 
 1. git clone this repo
-2. Drop your contrast_security.yaml file into the project root directory
+2. Drop your contrast_security.yaml file for the Go agent into the project root directory
 3. Edit the yaml file to set logging to stdout, or set the logging paths to /tmp instead of /var/log/contrast
 4. ./demo.sh reset
 5. ./demo.sh
