@@ -9,7 +9,7 @@ The go-test-bench application includes vulnerabilities from the OWASP Top
 10 and is intended to be used as an educational tool for developers and
 security professionals. Any maintainers are welcome to make pull requests.
 
-This setup runs the application in a Docker container, isolating it from the environment.
+This setup runs the application in a Docker container, isolating it from your environment.
 
 ## Installation/Requirements
 
