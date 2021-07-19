@@ -11,7 +11,7 @@ security professionals. Any maintainers are welcome to make pull requests.
 
 This setup runs the application in a Docker container, isolating it from your environment.
 
-## Installation/Requirements
+## Prerequisites
 
 A Contrast Security account, git, and docker (with docker compose)
 
