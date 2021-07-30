@@ -19,9 +19,8 @@ A Contrast Security account, git, and docker (with docker compose)
 
 1. git clone this repo
 2. Drop your contrast_security.yaml file for the Go agent into the project root directory
-3. Edit the yaml file to set logging to stdout, or set the logging paths to /tmp instead of /var/log/contrast
-4. ./demo.sh reset
-5. ./demo.sh
-6. Interact with the app at http://localhost:8080
-7. View the results in Contrast Security
+3. ./demo.sh reset
+4. ./demo.sh
+5. Interact with the app at http://localhost:8080
+6. View the results in Contrast Security
 
